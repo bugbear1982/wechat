@@ -47,5 +47,7 @@
         "psr-4": {
             "EasyWeChat\\Tests\\": "tests/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
